@@ -1,1 +1,3 @@
-# SQLStoredProcedures
+# SQL Stored Procedures - What They Are, Best Practices, Security, and More...
+# Youtube Video by IAmTimCorey
+
